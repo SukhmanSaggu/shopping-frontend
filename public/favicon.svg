@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Top horizontal bar (Shirorekha) -->
+  <rect x="20" y="15" width="60" height="9" rx="1.5" fill="#111111" />
+  
+  <!-- Sweeping loop representing the hybrid स/म symbol -->
+  <path 
+    d="M 52,24 
+       C 36,24 20,32 20,52 
+       C 20,68 34,74 47,60 
+       C 55,52 66,38 80,38" 
+    stroke="#111111" 
+    stroke-width="10" 
+    stroke-linecap="round" 
+    stroke-linejoin="round" 
+    fill="none"
+  />
+</svg>

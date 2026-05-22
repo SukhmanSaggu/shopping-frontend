@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import "tailwindcss";
+
+
+@font-face {
+    font-family: "Poppins", sans-serif;
+    src: url(./assets/fonts/Poppins/Poppins-Regular.ttf);
+}
+/* 
+@font-face {
+    font-family: "prata", sans-serif;
+    src: url(./assets/fonts/Prata/Prata-Regular.ttf);
+} */
+body{
+    font-family: "Poppins", sans-serif;
+    background-color: #FAF9F6;
+}
+.container{
+    width: 100%;
+    max-width: 1260px;
+    padding: 0px 15px;
+    margin: 0 auto;
+    @media (max-width:768px) {
+        padding: 0 10px;
+    }
+}
+
+
+h1{
+    font-size: 48px;
+    font-family: "Prata", serif;
+    @media (max-width:768px) {
+        font-size: 36px;
+    }
+}
+
+h2{
+    font-size: 42px;
+    font-family: "Prata", serif;
+    @media (max-width:768px) {
+        font-size: 36px;
+    }
+    @media (max-width:500px) {
+        font-size: 28px;
+    }
+}
+
+h3{
+    font-size: 48px;
+    font-family: "Prata", serif;
+    @media (max-width:768px) {
+        font-size: 36px;
+    }
+}
+
+h4{
+    font-size: 20px;
+    font-weight: 600;
+    @media (max-width:500px) {
+        font-size: 18px;
+    }
+}
+
+.section-padding{
+    padding: 80px 0px;
+    @media (max-width:500px) {
+        padding: 40px 0px;
+    }
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+.primary-btn{
+    display: inline-block;
+    padding: 12px 35px;
+    text-transform: uppercase;
+    background-color: #000;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    border: 1px solid #000;
+    transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.primary-btn:hover{
+    background-color: #fff;
+    color: #000;
+    letter-spacing: 0.15em;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
