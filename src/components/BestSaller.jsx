@@ -20,7 +20,6 @@ const BestSaller = () => {
             <div className="text-center">
               <SectionTitle SectionTitle1={'Best'} SectionTitle2={'Seller'} />
             </div>
-
             <div className="bestsallerProducts-list">
               {bestSaller.map((items, index) => {
                 return <ProductsCard key={index} id={items._id} Image={items.image} ProductName={items.name} Price={items.price} />
