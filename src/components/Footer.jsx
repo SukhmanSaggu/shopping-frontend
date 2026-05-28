@@ -12,7 +12,7 @@ const Footer = () => {
               <BrandLogo variant="footer" size={48} showText={true} />
             </Link>
             <p className="text-slate-600 mt-4">
-              We curate elegant, timeless fashion that fuses Spanish-French heritage with a modern artistic vision. Designed with premium quality craftsmanship and an eye for high-end minimalism, SAGGU | Maison de la Vega makes dressing beautifully an everyday luxury.
+              We curate elegant, timeless fashion that fuses heritage with a modern artistic vision. Designed with premium quality craftsmanship and an eye for high-end minimalism, SAGGU CLOTH STORE makes dressing beautifully an everyday luxury.
             </p>
           </div>
           <div className="box">
@@ -37,7 +37,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="bottom-footer text-center py-2">
-          <p>Copyright 2026 SAGGU | Maison de la Vega - All Rights Reserved.</p>
+          <p>Copyright 2026 SAGGU CLOTH STORE - All Rights Reserved.</p>
         </div>
       </div>
     </footer>

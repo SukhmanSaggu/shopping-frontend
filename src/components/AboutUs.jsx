@@ -19,7 +19,7 @@ const AboutUs = () => {
           <div className="about-content">
             <h3>Crafting Timeless Style Since 2018</h3>
             <p>
-              SAGGU | Maison de la Vega was born out of a shared passion for timeless fashion and contemporary design. Our journey began with a simple vision: to curate collections that elevate everyday style by seamlessly combining premium-grade craftsmanship with effortless elegance. We believe that what you wear is a reflection of your identity, and every stitch, fold, and detail matters.
+              SAGGU CLOTH STORE was born out of a shared passion for timeless fashion and contemporary design. Our journey began with a simple vision: to curate collections that elevate everyday style by seamlessly combining premium-grade craftsmanship with effortless elegance. We believe that what you wear is a reflection of your identity, and every stitch, fold, and detail matters.
             </p>
             <p>
               Each garment in our catalog is hand-selected and rigorously verified. From sourcing high-quality, sustainable fabrics to implementing master tailoring techniques, we prioritize durability, luxury comfort, and state-of-the-art aesthetics. We bridge the gap between premium design and accessible prices, ensuring that you look and feel your absolute best in every setting.

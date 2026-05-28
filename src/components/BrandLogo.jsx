@@ -52,7 +52,7 @@ const BrandLogo = ({ className = '', size = 42, variant = 'header', showText = t
             SAGGU
           </span>
           <span className="brand-subtitle">
-            Maison de la Vega
+            CLOTH STORE
           </span>
         </div>
       )}
